@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.tenor.com/pUyiNpqW3G3AAAAC/programming-code.gif" width="300"/>
+<img src="[https://media.tenor.com/pUyiNpqW3G3AAAAC/programming-code.gif](https://media.tenor.com/t23gPPRJKTMAAAAj/kirby-on-a-warp-star.gif)" width="300"/>
 
 <!--
 **guerz0ni/guerz0ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
